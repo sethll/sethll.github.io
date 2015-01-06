@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            'aspirin on the internet'
 tagline:          'Hopefully something useful will come of this.'
-description:      'Personal blog of a hacker.'
+description:      'all work and all play'
 url:              https://aspirin-.github.io
 baseurl:          /
 
