@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            'log of aspirin'
 tagline:          'Hopefully something useful will come of this.'
 description:      'all work and all play'
-url:              https://aspirin-.github.io
+url:              https://sethll.github.io
 baseurl:          /
 
 author:
@@ -23,4 +23,4 @@ paginate:         5
 # version:          2.1.0
 
 github:
-    repo:           https://github.com/aspirin-/aspirin-.github.io
+    repo:           https://github.com/aspirin-/sethll.github.io
