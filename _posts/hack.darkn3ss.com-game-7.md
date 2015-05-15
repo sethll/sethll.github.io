@@ -2,6 +2,7 @@
 layout: post
 title: hack.darkn3ss.com Game (Levels 4-6)
 tags: hacking game hack.darkn3ss
+published:false
 ---
 
 > This is a continuation of a series begun 
@@ -23,3 +24,4 @@ up.
 
 Let's continue. 
 
+## Level: 7
