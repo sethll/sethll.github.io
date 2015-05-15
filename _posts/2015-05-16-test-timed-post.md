@@ -1,5 +1,5 @@
 ---
-date: 2015-05-15
+date: 2015-05-16
 layout: post
 title: Test of timed release
 tags: test
