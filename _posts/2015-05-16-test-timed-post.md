@@ -8,7 +8,7 @@ tags: test
 I read that Jekyll is capable of making future posts. Testing whether a 
 specific timestamp is needed or if it auto-posts at midnight. 
 
-## Followup
+## Followup (2015-05-18)
 
 The built-in future posting feature of Jekyll is pretty neat, I am glad that
 the feature exists. To enable post queuing, all you need to do is disable 
