@@ -25,3 +25,16 @@ paginate:         5
 
 github:
     repo:           https://github.com/sethll/sethll.github.io
+
+footer-links:
+  dribbble: 
+  email: 
+  facebook:
+  flickr: 
+  github: sethll
+  instagram:
+  linkedin: sethll
+  pinterest: 
+  rss: a # just type anything here for a working RSS icon, make sure you set the "url" above!
+  twitter: sethll
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
