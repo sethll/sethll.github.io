@@ -10,7 +10,7 @@ relative_permalinks: true
 future:           false
 title:            'log of aspirin'
 tagline:          'Hopefully something useful will come of this.'
-description:      'all work and all play'
+description:      'Work/play log of sethll/aspirin'
 url:              https://sethll.github.io
 baseurl:          /
 
